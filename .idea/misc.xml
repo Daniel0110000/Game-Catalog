@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Daniel/AndroidStudioProjects/GameCatalog/app/src/main/res/drawable/bg_input_search.xml" value="0.178" />
+        <entry key="..\:/Users/Daniel/AndroidStudioProjects/GameCatalog/app/src/main/res/drawable/ic_favorite.xml" value="0.2645" />
+        <entry key="..\:/Users/Daniel/AndroidStudioProjects/GameCatalog/app/src/main/res/drawable/splash_screen.xml" value="0.2645" />
+        <entry key="..\:/Users/Daniel/AndroidStudioProjects/GameCatalog/app/src/main/res/layout/activity_game_information.xml" value="0.25" />
+        <entry key="..\:/Users/Daniel/AndroidStudioProjects/GameCatalog/app/src/main/res/layout/activity_main.xml" value="0.29375" />
+        <entry key="..\:/Users/Daniel/AndroidStudioProjects/GameCatalog/app/src/main/res/layout/items_all_games_layout.xml" value="0.29375" />
+        <entry key="..\:/Users/Daniel/AndroidStudioProjects/GameCatalog/app/src/main/res/layout/items_categories_layout.xml" value="0.29375" />
+        <entry key="..\:/Users/Daniel/AndroidStudioProjects/GameCatalog/app/src/main/res/layout/items_games_layout.xml" value="0.29375" />
+        <entry key="..\:/Users/Daniel/AndroidStudioProjects/GameCatalog/app/src/main/res/layout/items_screenshots_layout.xml" value="0.29375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

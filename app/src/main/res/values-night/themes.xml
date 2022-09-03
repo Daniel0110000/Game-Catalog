@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.GameCatalog" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/chinese_black</item>
+        <item name="colorPrimaryVariant">@color/eerie_black</item>
+        <item name="colorOnPrimary">@color/granite_gray</item>
+        <item name="android:windowBackground">@color/chinese_black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/philippine_yellow</item>
+        <item name="colorSecondaryVariant">@color/white</item>
+        <item name="colorOnSecondary">@color/chinese_silver</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimary</item>
+    </style>
+    <style name="SplashScreenTheme" parent="Theme.GameCatalog">
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+    </style>
+</resources>
